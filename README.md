@@ -3,5 +3,5 @@
 This is a project log for all projects.
 
 Projects:
-[LifterAPI_LOG.md](https://github.com/WeightliftingNZ/project.log/tree/main/LifterAPI_LOG.md)
+[lifter-api](https://github.com/WeightliftingNZ/project-log/blob/main/lifter-api/LOG.md)
 
